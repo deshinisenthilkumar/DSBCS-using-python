@@ -59,11 +59,12 @@ plt.plot(t,s)
 ```
 
 # Output
-<img width="672" height="508" alt="Screenshot 2025-11-23 095402" src="https://github.com/user-attachments/assets/27235a01-3f6a-4bcd-a4a4-173604f98b6b" />
+
+<img width="677" height="506" alt="image" src="https://github.com/user-attachments/assets/ee361459-46f0-4c3e-b3f5-7c947f199292" />
 
 # Tabulation
-![WhatsApp Image 2025-11-23 at 09 56 15_e82f977c](https://github.com/user-attachments/assets/a9cbb6f8-1728-460f-8d84-a1739b73df30)
 
+![WhatsApp Image 2025-11-23 at 09 56 15_92226d2d](https://github.com/user-attachments/assets/7bab57cc-fe51-4d0e-85e4-6f5914662981)
 
 # Result
 Thus, the DSB-SC-AM modulation and demodulation were implemented using Python (NumPy, SciPy, and Matplotlib), and their spectral characteristics were successfully studied.
